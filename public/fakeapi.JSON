@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "title": "SMALL GROUP TRAINING",
+    "url": "https://www.armourycoachingstudio.co.uk/uploads/1/2/9/5/129586512/3_orig.jpg",
+    "description": "Our Small Group Personal Training is unlike anything you'll have experienced before. In micro training groups of just 6:1, all your workouts are customised, recorded and coached by an experienced personal trainer.",
+    "trainer": "John Cena",
+    "price": 120,
+    "duration": "60 Mins",
+    "level": "Beginner",
+    "category": "Workout"
+  },
+
+  {
+    "id": 2,
+    "title": "ONE TO ONE PERSONAL TRAINING",
+    "url": "https://www.armourycoachingstudio.co.uk/uploads/1/2/9/5/129586512/2_orig.jpg",
+    "description": "1-2-1 personal training is the ultimate investment in your health. You'll be working directly with your coach in our private studio, following a bespoke plan to ensure you hit your goals in record time.",
+    "trainer": "David Smith",
+    "price": 100,
+    "duration": "60 Mins",
+    "level": "Beginner",
+    "category": "Workout"
+  },
+
+  {
+    "id": 3,
+    "title": "NUTRITION COACHING",
+    "url": "https://www.armourycoachingstudio.co.uk/uploads/1/2/9/5/129586512/1_1.jpg",
+    "description": "We'll teach you how to take control of your health and weight, without relying on any specific diet or products, with our 1-2-1 nutrition coaching.",
+    "trainer": "Dwayne Johnson",
+    "price": 80,
+    "duration": "30 Mins",
+    "level": "Beginner",
+    "category": "Nutrition"
+  },
+
+  {
+    "id": 4,
+    "title": "ONLINE TRAINING",
+    "url": "https://www.armourycoachingstudio.co.uk/uploads/1/2/9/5/129586512/smartmockups-k4dkpuo6-orig-orig_orig.jpg",
+    "description": "The Titan's Online Coaching Packages have been created to take the guesswork out of getting in the best shape of your life.",
+    "trainer": "Sansa Stark",
+    "price": 130,
+    "duration": "70 Mins",
+    "level": "Intermediate",
+    "category": "Pre-Workout"
+  },
+
+  {
+    "id": 5,
+    "title": "MAYFAIR PHYSIOTHERAPY",
+    "url": "https://mattroberts.co.uk/wp-content/uploads/matt-roberts-title-122.jpg",
+    "description": "Physiotherapy at Titan Fitness Club is offered by MAYFAIR PHYSIOTHERAPY. The team of fully qualified, chartered Physiotherapists continue to be an integral part of our clubs and play an important role in the fitness journey of our clients",
+    "trainer": "MATT ROBERTS",
+    "price": 200,
+    "duration": "80 Mins",
+    "level": "Advance",
+    "category": "Therapy"
+  },
+
+  {
+    "id": 6,
+    "title": "YOGA",
+    "url": "https://mattroberts.co.uk/wp-content/uploads/matt-roberts-title-110.jpg",
+    "description": "Taking the time to ease the body and mind is important, especially in a city as fast paced as london. Yoga is the ideal discipline for new and existing clients to complement their hectic lifestyle and current training regime.",
+    "trainer": "Arya Stark",
+    "price": 100,
+    "duration": "50 Mins",
+    "level": "Advance",
+    "category": "Yoga"
+  },
+
+  {
+    "id": 7,
+    "title": "CORPORATE",
+    "url": "https://mattroberts.co.uk/wp-content/uploads/matt-roberts-title-3.jpg",
+    "description": "Many studies have demonstrated that workplace fitness creates less absenteeism, increased motivation and resistance to stress, amongst other benefits. Titans Fitness Club Evolution can devise fully bespoke packages that allow you to invest in your employees’ physical and mental health.",
+    "trainer": "Matt Roberts",
+    "price": 250,
+    "duration": "60 Mins",
+    "level": "Beginner",
+    "category": "Corporate Workout"
+  },
+
+  {
+    "id": 8,
+    "title": "SEMI PRIVATE COACHING",
+    "url": "https://www.markpersonaltraining.com/uploads/1/1/7/4/117401611/semi-private-training_orig.jpg",
+    "description": "Semi Private Coaching is ideal if you work harder and feel more motivated training with a friend and want to make huge savings on personal training costs. You'll work through the individualised nutrition program I create for you, and exercise alongside your partner to accomplish your health and fitness goals.",
+    "trainer": "Matt Henry",
+    "price": 280,
+    "duration": "70 Mins",
+    "level": "Advanced",
+    "category": "Workout"
+  },
+
+  {
+    "id": 9,
+    "title": "STRENGTH FOUNDATIONS",
+    "url": "https://www.strengthcoachglasgow.co.uk/uploads/1/2/3/3/123320581/published/strengthtraining.jpg?1548432676",
+    "description": "For complete beginners and those brand new to weight training. Discover how Strength. Training can be your tool to improve mind and bodyWeekly education on exercise technique and training principles",
+    "trainer": "Glenn Maxwell",
+    "price": 200,
+    "duration": "40 Mins",
+    "level": "Beginner",
+    "category": "Strength"
+  }
+]

@@ -1,0 +1,8 @@
+.about-image {
+  background-image: url("../../about-image.png");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}

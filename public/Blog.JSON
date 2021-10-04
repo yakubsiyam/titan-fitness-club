@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "How To Build Lean Muscle Mass",
+    "description": "When fitness training first piqued my interest as a teenager, the conventional narrative was to spend half of your time ‘bulking’ and the other half ‘cutting’. We really didn’t pay too much mind to the quality of mass gain we were putting on, so long as we were getting bigger. We gave ourselves a licence to eat thousands of calories",
+    "date": "19.08.2021",
+    "writer": "David Smith",
+    "img": "https://www.esquireme.com/cloud/2021/09/09/building-muscle-a-scientific-approach-header-960x540.jpg"
+  },
+
+  {
+    "id": 2,
+    "title": "Optimal Pre & Post Workout Food",
+    "description": "Whatever your workout goals are, in order to achieve our best workout results we need to make sure we are fueling our bodies correctly, to not only provide enough energy to perform to our best level during the workout, but also to recover and refuel our bodies after strenuous exercise. By failing to eat correctly before exercise, you risk feeling tired or lethargic quicker during your workout and not being able to work to your best level or with accuracy and therefore unable to achieve your maximum results and risking injury. Equally if we fail to feed and refuel our bodies correctly after a workout, our can muscles we take longer to rebuild and repair, leaving us feeling achy and sore, and potentially losing the strength gains we have been working to achieve and risk injury in the long run.",
+    "date": "21.09.2021",
+    "writer": "Sansa Stark",
+    "img": "https://www.powerhouse-fitness.co.uk/blog/wp-content/uploads/2020/12/Blog_food-4.jpg"
+  },
+
+  {
+    "id": 3,
+    "title": "How to prepare for an obstacle course or mud run in 8 weeks",
+    "description": "Taking on a mud run and OCR event is a great way to challenge your level of fitness and overall athleticism. It will also tax you mentally as there may be times where you feel like you can’t go on. But you can.In fact, as the popularity of obstacle courses has grown massively in recent years, I've tailored many of my PT programmes around OCR, helping clients get strong and fit enough to not only complete in an obstacle race but enjoy it, too.",
+    "date": "25.08.2021",
+    "writer": "Dwayne Jhonson",
+    "img": "https://images04.military.com/sites/default/files/styles/full/public/media/military-fitness/2014/07/obstacle-courses-image.jpg"
+  },
+
+  {
+    "id": 4,
+    "title": "Is juicing really good for you?",
+    "description": "Juicing is no healthier than eating whole fruits and vegetables.Juicing extracts the juice from fresh fruits or vegetables. The liquid contains most of the vitamins minerals and plant chemicals (phytonutrients) found in the fruit. However, whole fruits and vegetables also have healthy fiber, which is lost during most juicing.Some believe that juicing is better than eating whole fruits and vegetables because your body can absorb the nutrients better and it gives your digestive system a rest from digesting fiber.",
+    "date": "08.7.2021",
+    "writer": "Robinson",
+    "img": "https://ahchealthenewscdn.azureedge.net/wp-content/uploads/2019/03/juice-cleanse.jpg"
+  },
+
+  {
+    "id": 5,
+    "title": "THE BEST WAY TO GET IN SHAPE WITH PRESS UPS",
+    "description": "Gah, I suck at those, or an incredulous aren't press ups for beginners? The truth is, you can get in great shape with this upper body staple, which may or may not be the oldest exercise known to man (I have no idea if that's true, but it sounds good, doesn't it?). It can be a tough challenge if you've never trained before, or if you grew up pushing a dumbbell around in a pram and snacked on protein cookies instead of Oreos and it's value as an exercise has sky rocketed due to it's accessibility in 2020, with so many gyms being closed ",
+    "date": "22.06.2021",
+    "writer": "Matt Henry",
+    "img": "https://www.armourycoachingstudio.co.uk/uploads/1/2/9/5/129586512/press-up-programme-personal-trainer-in-milton-keynes_orig.png"
+  }
+]
