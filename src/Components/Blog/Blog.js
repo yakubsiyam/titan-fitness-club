@@ -1,6 +1,5 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { useState } from "react/cjs/react.development";
 import logo from "../../logo.png";
 import BlogPages from "../BlogPages/BlogPages";
 
@@ -47,11 +46,7 @@ const Blog = () => {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link
-                    to="/blog"
-                    className="nav-link active"
-                    aria-current="page"
-                  >
+                  <Link to="/blog" className="nav-link active">
                     Blog
                   </Link>
                 </li>

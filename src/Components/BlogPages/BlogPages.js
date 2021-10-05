@@ -15,7 +15,7 @@ const BlogPages = (props) => {
         <h1 className="card-title">{title}</h1>
         <p className="card-text">{description}</p>
         <p className="card-text">
-          <small className="text-muted">Publised: {date}</small>
+          <small className="text-muted">Published: {date}</small>
         </p>
         <p className="card-text">
           <small className="text-muted">Author: {writer}</small>

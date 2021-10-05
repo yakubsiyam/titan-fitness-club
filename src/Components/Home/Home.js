@@ -36,11 +36,7 @@ const Home = () => {
             <div className="d-flex justify-content-lg-end fw-bold">
               <ul className="navbar-nav">
                 <li className="nav-item">
-                  <Link
-                    to="/home"
-                    className="nav-link active"
-                    aria-current="page"
-                  >
+                  <Link to="/home" className="nav-link active">
                     Home
                   </Link>
                 </li>

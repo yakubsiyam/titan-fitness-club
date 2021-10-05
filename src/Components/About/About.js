@@ -32,7 +32,6 @@ const About = () => {
                   <Link
                     to="/about"
                     className="nav-link active"
-                    aria-current="page"
                   >
                     About
                   </Link>

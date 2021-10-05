@@ -41,11 +41,7 @@ const Services = () => {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link
-                    to="/services"
-                    className="nav-link active"
-                    aria-current="page"
-                  >
+                  <Link to="/services" className="nav-link active">
                     Services
                   </Link>
                 </li>

@@ -47,7 +47,7 @@ const HomePageServices = (props) => {
         <div>
           <Link
             to="/services"
-            className="col-lg-3 col-5 btn btn-danger btn-lg d-block mx-auto my-2"
+            className="col-lg-3 col-5 btn btn-danger d-block mx-auto my-2"
           >
             LEARN MORE
           </Link>

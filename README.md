@@ -1,6 +1,6 @@
 # Titan Fitness Club
 
-Live site link: https://circle-tech.netlify.app/
+Live site link: https://titan-fitness-club.netlify.app/
 
 ## About This Project
 
